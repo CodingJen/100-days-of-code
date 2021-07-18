@@ -8,9 +8,9 @@
 **Thoughts** I've coded for most of my life, on and off though.  Always enjoyed it but never stuck with it enough to get good.  Now my life is at a crossroads and I want to try pursuing that which I've always loved.
 
 **Link(s) to work**
-1. [freeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/codingjen/responsive-web-design)
-1. [freeCodeCamp JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/codingjen/javascript-algorithms-and-data-structures)
-1. [freeCodeCamp Front End Libraries Certificate](https://www.freecodecamp.org/certification/codingjen/front-end-libraries)
+- [freeCodeCamp Responsive Web Design Certificate](https://www.freecodecamp.org/certification/codingjen/responsive-web-design)
+- [freeCodeCamp JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/codingjen/javascript-algorithms-and-data-structures)
+- [freeCodeCamp Front End Libraries Certificate](https://www.freecodecamp.org/certification/codingjen/front-end-libraries)
 
 ### Day 16: July 16, 2021
 
@@ -22,8 +22,8 @@
 **Thoughts** I'm thinking of trying my hand at React Native with the 25+5 Clock for a start.  Just want to keep it simple before I start a bigger project. I should probably also keep tweaking the clock. Always room to improve.
 
 **Link(s) to work**
-1. [Github](https://github.com/CodingJen)
-1. [25 + 5 Clock](https://vibrant-bartik-bf8769.netlify.app/)
+- [Github](https://github.com/CodingJen)
+- [25 + 5 Clock](https://vibrant-bartik-bf8769.netlify.app/)
 
 ### Day 17: July 17, 2021
 
@@ -38,3 +38,15 @@ files. I don't want to store it in a server or anything though so maybe I can en
 
 **Link(s) to work**
 See day 16
+
+### Day 18: July 18, 2021
+
+**Today's Progress**:
+- Added volume slider, had to figure out how to make a range slider vertical.
+- Started styling the slider. Needs a few more tweaks.
+
+**Thoughts** Trying to do the vertical range input is weird.  Having to transform: rotate() has some problems.  Takes the width but then uses that for the height after it gets turned 90deg. 
+ I want the container narrow but then the range slider is really short. Workaround seems to be to manually set the height but then I lose responsiveness.
+
+**Link(s) to work**
+- https://github.com/CodingJen/25-5-clock-web/commit/be0e398e25f3e82057baa191908d24e1fa8ccfa1

@@ -79,3 +79,7 @@ github.com/CodingJen/
 Fixed some bugs in my sample project.  Added local storage so it remembers your settings. Working on a volume control now and have a couple other plans in the near future, hope I can make them work.
 https://twitter.com/CodingJen/status/1416548052073025541
 
+### R1D18
+Is there a better way to make a range slider vertical than to transform: rotate() it. Problem is the slider takes the width of the container it's in as it's height after the transform and makes it difficult to place.
+https://twitter.com/CodingJen/status/1416887434084716546
+
