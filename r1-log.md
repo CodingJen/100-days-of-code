@@ -69,3 +69,13 @@ Still working on the #freeCodeCamp Data Visualization challenges.  Trying to wor
 https://twitter.com/CodingJen/status/1415720439238725637
 
 ### R1D16
+Setup my github finally. Turned my #freeCodeCamp 25+5 Clock project into a proper hosted React app instead of a codepen. Fixed some bugs and refactored a couple things.
+https://twitter.com/CodingJen/status/1416143066499407872
+
+https://vibrant-bartik-bf8769.netlify.app
+github.com/CodingJen/
+
+### R1D17
+Fixed some bugs in my sample project.  Added local storage so it remembers your settings. Working on a volume control now and have a couple other plans in the near future, hope I can make them work.
+https://twitter.com/CodingJen/status/1416548052073025541
+

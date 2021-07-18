@@ -25,3 +25,16 @@
 1. [Github](https://github.com/CodingJen)
 1. [25 + 5 Clock](https://vibrant-bartik-bf8769.netlify.app/)
 
+### Day 17: July 17, 2021
+
+**Today's Progress**: 
+- Fixed some more bugs in my 25+5 Clock.
+- Added local storage for the session and break times, now they are remembered and set when the page loads. 
+- Started work on the volume control.
+- Trying to figure out if I can make a vertical range slider.
+
+**Thoughts** Should I just make a custome control for the volume? Thinking a vertical thumbwheel looking control, maybe I can pull it off.  Also looking into drag and drop, want people to be able to add their own sound
+files. I don't want to store it in a server or anything though so maybe I can encode them and put in local storage? Maybe a base64 encoding of the file?
+
+**Link(s) to work**
+See day 16
