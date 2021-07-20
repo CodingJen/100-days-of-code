@@ -102,3 +102,8 @@ https://twitter.com/CodingJen/status/1416887434084716546
 
 Still going! Worked on refactoring my app's styles to styled components. Now I don't have a huge .css file to sift through!
 https://twitter.com/CodingJen/status/1417229772514463753
+
+### R1D20
+
+Left my app a mess today! Trying to learn React Hooks by converting from classes.  What a disaster! I need a break. Some things are just not updating like I think they should. Time for a break.
+https://twitter.com/CodingJen/status/1417598932792668162

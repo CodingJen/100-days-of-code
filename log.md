@@ -70,3 +70,16 @@ Liking the styled components. Think it'll work easier than having a 500+ line cs
 **Link(s) to work**
 
 - [Today's big commit](https://github.com/CodingJen/25-5-clock-web/commit/6e88dced5e9dfaaaaf3d57f6e43ba770494763e4) - Sure looks colorful in the diff log!
+
+### Day 20: July 20, 2021
+
+**Today's Progress:**
+- Working on refactor to react hooks.  Switched over what I though would work but was seriously disappointed.
+
+**Thoughts**
+Wish I had just learned the hooks system from the get go, maybe it's better this way, it is forcing me to learn it. I had hoped it would be
+easy to convert but after I did things i thought would still work didnt.  I will perservere for a while but I hope I don't have to start over
+and do it a small step at a time.
+
+**Link(s) to work**
+- Nothing today, I'll show it when something is there. It's just a complete mess right now.
