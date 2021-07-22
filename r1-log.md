@@ -105,5 +105,14 @@ https://twitter.com/CodingJen/status/1417229772514463753
 
 ### R1D20
 
-Left my app a mess today! Trying to learn React Hooks by converting from classes.  What a disaster! I need a break. Some things are just not updating like I think they should. Time for a break.
+Left my app a mess today! Trying to learn React Hooks by converting from classes. What a disaster! I need a break. Some things are just not updating like I think they should. Time for a break.
 https://twitter.com/CodingJen/status/1417598932792668162
+
+### R1D21
+
+So confused. Spent the day trying to debug. useState() state variable don't show updated values in a console.log in a setInterval callback. Making a quick useEffect shows they update however. Anyone able to help?
+https://twitter.com/CodingJen/status/1418021934101499904
+
+Extended day.
+Done with the (initial) refactor to hooks. Not sure if it's all the way they should be used but it's a start. And it has no warnings now too.
+https://twitter.com/CodingJen/status/1418068066596921344

@@ -74,12 +74,30 @@ Liking the styled components. Think it'll work easier than having a 500+ line cs
 ### Day 20: July 20, 2021
 
 **Today's Progress:**
-- Working on refactor to react hooks.  Switched over what I though would work but was seriously disappointed.
+
+- Working on refactor to react hooks. Switched over what I though would work but was seriously disappointed.
 
 **Thoughts**
 Wish I had just learned the hooks system from the get go, maybe it's better this way, it is forcing me to learn it. I had hoped it would be
-easy to convert but after I did things i thought would still work didnt.  I will perservere for a while but I hope I don't have to start over
+easy to convert but after I did things i thought would still work didnt. I will perservere for a while but I hope I don't have to start over
 and do it a small step at a time.
 
 **Link(s) to work**
+
 - Nothing today, I'll show it when something is there. It's just a complete mess right now.
+
+### Day 21: July 21, 2021
+
+**Today's Progress:**
+
+- Wow it's been a couple days of trying to get the hooks to work, way more hours than I would have liked. I did finally get them to work, had warnings, and had to figure those out too.
+- Some minor tweaks to naming and used an emoji for a favicon!
+- Re updated the demo site on netlify
+
+**Thoughts**
+I wish i had someone to bounce these problems off of, but at the same time trying to google and figure it out on my own might be best, I just wish I had someone to point me in the right direction so I don't spend 20 hours getting something done that should have taken 1!
+
+**Link(s) to work**
+
+- [Git repo at the point of this writing](https://github.com/CodingJen/25-5-clock-web/tree/4a900bc7089824eb36691e87b7768657b687b763)
+- [Demo site](https://vibrant-bartik-bf8769.netlify.app/)
