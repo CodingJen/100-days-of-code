@@ -101,3 +101,18 @@ I wish i had someone to bounce these problems off of, but at the same time tryin
 
 - [Git repo at the point of this writing](https://github.com/CodingJen/25-5-clock-web/tree/4a900bc7089824eb36691e87b7768657b687b763)
 - [Demo site](https://vibrant-bartik-bf8769.netlify.app/)
+
+### Day 22: July 22, 2021
+
+**Today's Progress:**
+
+- Started planning my next project. It will be fun to see it come together.
+- Hopefully set up the git repo in a better way.
+- Got some boilerplate code setup.
+- Project name is 😎 Emoji Invaders. 👽 Like space invader but Smileyer! 😊
+
+**Thoughts**
+Still want to work on the last project but I think I need to move on to something else. Maybe I'll come back and add some more features later but for now it's good (enough).
+
+**Link(s) to work**
+[Emoji Invaders](https://github.com/CodingJen/emoji-invaders)

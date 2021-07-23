@@ -116,3 +116,8 @@ https://twitter.com/CodingJen/status/1418021934101499904
 Extended day.
 Done with the (initial) refactor to hooks. Not sure if it's all the way they should be used but it's a start. And it has no warnings now too.
 https://twitter.com/CodingJen/status/1418068066596921344
+
+### R1D22
+
+Started planning my next project. It will be fun to see it come together. Hopefully set up the git repo in a better way. Got some boilerplate code setup.
+https://twitter.com/CodingJen/status/1418442693718331395
