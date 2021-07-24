@@ -121,3 +121,8 @@ https://twitter.com/CodingJen/status/1418068066596921344
 
 Started planning my next project. It will be fun to see it come together. Hopefully set up the git repo in a better way. Got some boilerplate code setup.
 https://twitter.com/CodingJen/status/1418442693718331395
+
+### R1D23
+
+Worked on my new project. It's a small game. I wanted to try it using React, was having some trouble so I started prototyping it on codepen. Got a fair ways into it.
+https://twitter.com/CodingJen/status/1418956919406952448

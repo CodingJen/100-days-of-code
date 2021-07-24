@@ -116,3 +116,16 @@ Still want to work on the last project but I think I need to move on to somethin
 
 **Link(s) to work**
 [Emoji Invaders](https://github.com/CodingJen/emoji-invaders)
+
+### Day 23: July 23, 2021
+
+**Today's Progress:**
+
+- Worked on the Emoji Invaders game. Started having a bit of trouble figureing through it in React alone so I went on codepen.io and started prototyping it in vanilla js there
+- Got the player to move back and forth along the bottom of the screen, adding stopping at the edges, and got it to shoot flames when hitting the space bar!
+- Moved from codepen to a local project because the internet was giving me issues.
+- Upped project to Github.
+- Writing this all from the future because it was a long day of coding.
+
+**Thoughts**
+Still having trouble with react. Went to vanilla js and was able to really hammer off some code. I guess I'm just not completely understanding the react system yet.
