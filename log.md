@@ -129,3 +129,15 @@ Still want to work on the last project but I think I need to move on to somethin
 
 **Thoughts**
 Still having trouble with react. Went to vanilla js and was able to really hammer off some code. I guess I'm just not completely understanding the react system yet.
+
+### Day 24: July 24, 2021
+
+**Today's Progress:**
+
+- More Emoji Invaders! 😁 Emoji's are going through the loops, getting shot down.
+
+**Thoughts**
+Having lots of fun working on a game. I do need to get to a more 'professional' project though.
+
+**Link(s) to work**
+https://github.com/CodingJen/emoji-invaders-vanillajs
