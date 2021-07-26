@@ -141,3 +141,18 @@ Having lots of fun working on a game. I do need to get to a more 'professional' 
 
 **Link(s) to work**
 https://github.com/CodingJen/emoji-invaders-vanillajs
+
+### Day 25: July 25, 2021
+
+**Today's Progress:**
+
+- 🔈 Boom, buh, dum duh SOUND!!
+- If above isn't clear there is sound and it speeds up as needed! Getting more fun.
+- Starting to figure how to drop bombs (randomly?) either way I think the sprites need a refactor.
+
+**Thoughts**
+Still wonderful seeing this come together. Got to figure out how to randomly choose from the active invader sprites which one will drop a bomb... Starting to feel like I need to render each one seperatly myself instead of using the grid.
+I need to know it's position, although I think I can still calculate that from the getBoundingClientRect(). ⚙ Hmm gears are turning.
+
+**Link(s) to work**
+https://github.com/CodingJen/emoji-invaders-vanillajs

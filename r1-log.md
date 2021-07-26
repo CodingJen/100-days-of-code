@@ -131,3 +131,8 @@ https://twitter.com/CodingJen/status/1418956919406952448
 
 Worked on my vanilla JS/CSS/HTML game. It's starting to actually turn into something. So wonderful to see a blank screen start to come alive!
 https://twitter.com/CodingJen/status/1419355047566004225
+
+### R1D25
+
+Have some basic sounds working in my game! Working on refining movement. Thinking about the next steps, but may have to step back and refactor a couple parts first.
+https://twitter.com/CodingJen/status/1419497906617282565
