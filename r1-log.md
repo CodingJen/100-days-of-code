@@ -136,3 +136,8 @@ https://twitter.com/CodingJen/status/1419355047566004225
 
 Have some basic sounds working in my game! Working on refining movement. Thinking about the next steps, but may have to step back and refactor a couple parts first.
 https://twitter.com/CodingJen/status/1419497906617282565
+
+### R1D26
+
+Added shooting Pew 🔫 sound. Started work on getting emoji's to drop bombs on player. Started on styling logo. Setup cloud hosting for my font and sound files.
+https://twitter.com/CodingJen/status/1419914054777196546

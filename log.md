@@ -156,3 +156,17 @@ I need to know it's position, although I think I can still calculate that from t
 
 **Link(s) to work**
 https://github.com/CodingJen/emoji-invaders-vanillajs
+
+### Day 26: July 26, 2021
+
+**Today's Progress:**
+
+- Added another sound, pew pew 🔫
+- started on getting the emojis to fight back, dropping bombs 💣
+- Started on logo, trying to style it properly, put font on backblaze.
+
+**Thoughts**
+Few things done today although it was a slow day for code to come to me. Needed more of a self care day today anyway. Mental health is important. Got some things cleaned up around me.
+
+**Link(s) to work**
+https://github.com/CodingJen/emoji-invaders-vanillajs
