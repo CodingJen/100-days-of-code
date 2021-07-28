@@ -170,3 +170,21 @@ Few things done today although it was a slow day for code to come to me. Needed 
 
 **Link(s) to work**
 https://github.com/CodingJen/emoji-invaders-vanillajs
+
+### Day 27: July 27, 2021
+
+**Today's Progress**
+
+- Added boom emoji when they blow up 💥
+- Added one more sound, now emojis sound like they're exploding! 🙄
+- Happy enough with title text now!
+- New branch and a teardown and rebuild for responsive design.
+
+**Thoughts**
+Lots of weird bugs keep getting in there. Guess thats half the battle right? Squash bug, add feature, squash bug. Rinse and repeat until done! 😉
+I think my refactor will also help there, I think a lot of the bugs have to do with they way it was implemnented with HTML to begin with, might be
+fixable in the css but it won't help some other things. Still have to loop through elements that are hidden right now, they should get removed from
+the DOM when they are killed.
+
+**Link(s) to work**
+https://github.com/CodingJen/emoji-invaders-vanillajs

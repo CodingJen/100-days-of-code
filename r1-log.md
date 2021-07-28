@@ -141,3 +141,8 @@ https://twitter.com/CodingJen/status/1419497906617282565
 
 Added shooting Pew 🔫 sound. Started work on getting emoji's to drop bombs on player. Started on styling logo. Setup cloud hosting for my font and sound files.
 https://twitter.com/CodingJen/status/1419914054777196546
+
+### R1D27
+
+Game project is coming along. Keep adding features, and apparently bugs too. 🐞 🤣 I'll keep adding and squashing until I'm happy!
+https://twitter.com/CodingJen/status/1420174651242680320
