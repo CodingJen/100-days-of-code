@@ -146,3 +146,8 @@ https://twitter.com/CodingJen/status/1419914054777196546
 
 Game project is coming along. Keep adding features, and apparently bugs too. 🐞 🤣 I'll keep adding and squashing until I'm happy!
 https://twitter.com/CodingJen/status/1420174651242680320
+
+### R1D28
+
+Worked on my JavaScript game, Emoji Invaders. Redid my emoji grid, now just creating the elements on the DOM instead of the HTML file. Also made it completely responsive to window resizing. Set up domain and cloud host.
+https://twitter.com/CodingJen/status/1420574977380655107

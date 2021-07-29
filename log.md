@@ -188,3 +188,22 @@ the DOM when they are killed.
 
 **Link(s) to work**
 https://github.com/CodingJen/emoji-invaders-vanillajs
+
+### Day 28: July 28, 2021
+
+**Today's Progress**
+
+- Reworked the emoji grid, they are no longer created in the html, now just in the DOM
+- Bombs are dropping
+- Worked on resize, and starting to move away from hard coded size, now responding to the window size - some parts still a work in progress however
+- Got jenniferfix.ca domain a couple days ago, linked it to linode and started to get my cloud server setup
+
+**Thoughts**
+
+So much work, I hope all this will pay off. Really going to work on presenting things to the public instead of just hiding and no one sees anything.
+I think that's my life in a nutshell however. With coming out and starting to let people know who I really am -- it's been so liberating!
+Also love that I get some positive love from the Emoji Invaders name! ❤ I want to get it out there. I really hope I can polish it enough to be a
+very fun version of Space Invaders.
+
+**Link(s) to work**
+[Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
