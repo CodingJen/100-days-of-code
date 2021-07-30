@@ -151,3 +151,8 @@ https://twitter.com/CodingJen/status/1420174651242680320
 
 Worked on my JavaScript game, Emoji Invaders. Redid my emoji grid, now just creating the elements on the DOM instead of the HTML file. Also made it completely responsive to window resizing. Set up domain and cloud host.
 https://twitter.com/CodingJen/status/1420574977380655107
+
+### R1D28
+
+All over the place today. Game code cleanup, brainstorm and prototype how to fix a problem. Work on web host. Node.js tutorials.
+https://twitter.com/CodingJen/status/1420957919231627269

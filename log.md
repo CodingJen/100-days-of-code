@@ -12,6 +12,8 @@
 - [freeCodeCamp JavaScript Algorithms and Data Structures Certificate](https://www.freecodecamp.org/certification/codingjen/javascript-algorithms-and-data-structures)
 - [freeCodeCamp Front End Libraries Certificate](https://www.freecodecamp.org/certification/codingjen/front-end-libraries)
 
+---
+
 ### Day 16: July 16, 2021
 
 **Today's Progress**:
@@ -27,6 +29,8 @@
 - [Github](https://github.com/CodingJen)
 - [25 + 5 Clock](https://vibrant-bartik-bf8769.netlify.app/)
 
+---
+
 ### Day 17: July 17, 2021
 
 **Today's Progress**:
@@ -40,7 +44,10 @@
 files. I don't want to store it in a server or anything though so maybe I can encode them and put in local storage? Maybe a base64 encoding of the file?
 
 **Link(s) to work**
-See day 16
+
+- See day 16
+
+---
 
 ### Day 18: July 18, 2021
 
@@ -55,6 +62,8 @@ I want the container narrow but then the range slider is really short. Workaroun
 **Link(s) to work**
 
 - https://github.com/CodingJen/25-5-clock-web/commit/be0e398e25f3e82057baa191908d24e1fa8ccfa1
+
+---
 
 ### Day 19: July 19, 2021
 
@@ -71,6 +80,8 @@ Liking the styled components. Think it'll work easier than having a 500+ line cs
 
 - [Today's big commit](https://github.com/CodingJen/25-5-clock-web/commit/6e88dced5e9dfaaaaf3d57f6e43ba770494763e4) - Sure looks colorful in the diff log!
 
+---
+
 ### Day 20: July 20, 2021
 
 **Today's Progress:**
@@ -85,6 +96,8 @@ and do it a small step at a time.
 **Link(s) to work**
 
 - Nothing today, I'll show it when something is there. It's just a complete mess right now.
+
+---
 
 ### Day 21: July 21, 2021
 
@@ -102,6 +115,8 @@ I wish i had someone to bounce these problems off of, but at the same time tryin
 - [Git repo at the point of this writing](https://github.com/CodingJen/25-5-clock-web/tree/4a900bc7089824eb36691e87b7768657b687b763)
 - [Demo site](https://vibrant-bartik-bf8769.netlify.app/)
 
+---
+
 ### Day 22: July 22, 2021
 
 **Today's Progress:**
@@ -114,8 +129,9 @@ I wish i had someone to bounce these problems off of, but at the same time tryin
 **Thoughts**
 Still want to work on the last project but I think I need to move on to something else. Maybe I'll come back and add some more features later but for now it's good (enough).
 
-**Link(s) to work**
-[Emoji Invaders](https://github.com/CodingJen/emoji-invaders)
+**Link(s) to work** -[Emoji Invaders](https://github.com/CodingJen/emoji-invaders)
+
+---
 
 ### Day 23: July 23, 2021
 
@@ -130,6 +146,8 @@ Still want to work on the last project but I think I need to move on to somethin
 **Thoughts**
 Still having trouble with react. Went to vanilla js and was able to really hammer off some code. I guess I'm just not completely understanding the react system yet.
 
+---
+
 ### Day 24: July 24, 2021
 
 **Today's Progress:**
@@ -140,7 +158,10 @@ Still having trouble with react. Went to vanilla js and was able to really hamme
 Having lots of fun working on a game. I do need to get to a more 'professional' project though.
 
 **Link(s) to work**
-https://github.com/CodingJen/emoji-invaders-vanillajs
+
+- https://github.com/CodingJen/emoji-invaders-vanillajs
+
+---
 
 ### Day 25: July 25, 2021
 
@@ -155,7 +176,10 @@ Still wonderful seeing this come together. Got to figure out how to randomly cho
 I need to know it's position, although I think I can still calculate that from the getBoundingClientRect(). ⚙ Hmm gears are turning.
 
 **Link(s) to work**
-https://github.com/CodingJen/emoji-invaders-vanillajs
+
+- https://github.com/CodingJen/emoji-invaders-vanillajs
+
+---
 
 ### Day 26: July 26, 2021
 
@@ -169,7 +193,10 @@ https://github.com/CodingJen/emoji-invaders-vanillajs
 Few things done today although it was a slow day for code to come to me. Needed more of a self care day today anyway. Mental health is important. Got some things cleaned up around me.
 
 **Link(s) to work**
-https://github.com/CodingJen/emoji-invaders-vanillajs
+
+- https://github.com/CodingJen/emoji-invaders-vanillajs
+
+---
 
 ### Day 27: July 27, 2021
 
@@ -187,7 +214,10 @@ fixable in the css but it won't help some other things. Still have to loop throu
 the DOM when they are killed.
 
 **Link(s) to work**
-https://github.com/CodingJen/emoji-invaders-vanillajs
+
+- https://github.com/CodingJen/emoji-invaders-vanillajs
+
+---
 
 ### Day 28: July 28, 2021
 
@@ -206,4 +236,27 @@ Also love that I get some positive love from the Emoji Invaders name! ❤ I want
 very fun version of Space Invaders.
 
 **Link(s) to work**
-[Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
+
+### Day 29: July 29, 2021
+
+**Today's Progress**
+
+- Cleaned up a bit of code in Emoji Invaders
+- Prototyping to enforce an aspect ratio while keeping it responsive
+- Working on setting up the web host. Researching a continous integration method
+- Learning about the Twitter API, applied for a Dev account.
+- Started a node tutorial with the API stuff
+
+**Thoughts**
+
+Keeping way to busy. Hope I don't burn myself out with this stuff. It's a good thing I don't have a lot going on in my life right now, lol. At least I'm not working full
+time so I have a chance to do this.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+- [Twitter Talker](https://github.com/CodingJen/twitter-talker)
