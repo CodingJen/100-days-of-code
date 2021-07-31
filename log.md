@@ -260,3 +260,23 @@ time so I have a chance to do this.
 
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
 - [Twitter Talker](https://github.com/CodingJen/twitter-talker)
+
+---
+
+### Day 30: July 30, 2021
+
+**Today's Progress**
+
+- Learned about 'slow' animations with CSS. Refactor how all the sprites are moved. Now using the transorm: translate(x,y); of CSS styles.
+- 🧡Levels!
+- Yes thats right, it gets harder, well it would if I felt like setting up the player damage which i'm purposly avoiding right now lol.
+
+**Thoughts**
+Wow okay, so the transform thing is definitly the big lesson I've learned over the last couple days. Was listening to the Syntax podcast and they we're talking about slow
+css transitions. I didn't realize that some would cause the whole page to restart the layout process. There are 4 steps in the layout and that's at the start. Transform only
+works on the last step added as a layer so the whole page doesn't have to re render. Ok TIL! Use transform more often for CSS animations! And still no key to the twitter API so
+I can't progress any on that front yet.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
