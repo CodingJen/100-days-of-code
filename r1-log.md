@@ -162,3 +162,9 @@ https://twitter.com/CodingJen/status/1420957919231627269
 Important lesson today: Don't animate elements using http://style.top or style.left. Instead use transform: translate().
 Using the first properties triggers a whole page layout and is very expensive!
 https://twitter.com/CodingJen/status/1421184100577071108
+
+### R131
+
+More work on my Emoji Invaders game. Bunkers are starting to take shape now. Working on making it more responsive. I think I also need to enforce an aspect ratio.
+Time for some CSS & GoogleFu!
+https://twitter.com/CodingJen/status/1421700199169150982

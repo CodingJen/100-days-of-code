@@ -280,3 +280,17 @@ I can't progress any on that front yet.
 **Links to work**
 
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+### Day 30: July 31, 2021
+
+**Today's Progress**
+
+- Added ESLint with the airbnb style guide. Started with over 100 problems, well besides the wrong line ending type, they just want an LF, not a CRLF. CRLF is just windows version i thought the other systems smart enough to figure out what to do with it.. oh well. down to under 20, some I'm not sure what to do about as you're not supposed to do things like setting a dom element transform.. not sure why, maybe some googling will tell me..
+- I have the bunkers displaying, not perfect yet but they are there, half the battle. Easy enough to implemnent a collision detection algo. Now how to make it look like the damage spreads out a bit. Maybe each cell should fade a bit first. Can I store that it's a bit faded in a dataset element?
+
+**Thoughts**
+Still progressing. Thought I would be there by now. So much to deal with. Thought I had this under control by now. Guess I really don't have that many real projects under my belt yet, but this one I intend to get to a finished state. I can think of so many parts that I will have to deal with though. Mind just keeps on racing on whats to do. Just focus on one part, get it done then move on. Of course there are lots of moving parts in any project.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
