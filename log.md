@@ -281,7 +281,9 @@ I can't progress any on that front yet.
 
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
 
-### Day 30: July 31, 2021
+---
+
+### Day 31: July 31, 2021
 
 **Today's Progress**
 
@@ -290,6 +292,24 @@ I can't progress any on that front yet.
 
 **Thoughts**
 Still progressing. Thought I would be there by now. So much to deal with. Thought I had this under control by now. Guess I really don't have that many real projects under my belt yet, but this one I intend to get to a finished state. I can think of so many parts that I will have to deal with though. Mind just keeps on racing on whats to do. Just focus on one part, get it done then move on. Of course there are lots of moving parts in any project.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
+
+### Day 32: August 1, 2021
+
+**Today's Progress**
+
+- Worked a bit on trying to figure out an effecient way to to the collision testing and destruction of the bunkers
+- Worked on setting up a google cloud compute engine.
+- Not as much code today, need a break it is Sunday after all.
+
+**Thoughts**
+I think my biggest problem right now is there is no real model with they way i'm coding this. Which part of the code has control over which other parts. It's starting to become I mess and I know it. Thought I could just 'hack' it together but maybe not. We shall see, hopefully it all works out.
+Not sure what the proper way to architect this would be. I feel my big global game object containing all the state should be ok, but just throwing a check for something just anywhere feels wrong.
 
 **Links to work**
 

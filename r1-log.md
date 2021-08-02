@@ -168,3 +168,8 @@ https://twitter.com/CodingJen/status/1421184100577071108
 More work on my Emoji Invaders game. Bunkers are starting to take shape now. Working on making it more responsive. I think I also need to enforce an aspect ratio.
 Time for some CSS & GoogleFu!
 https://twitter.com/CodingJen/status/1421700199169150982
+
+### R132
+
+Trying to figure out how to make a partially destructible bunker with the method I've been building this game with is a bit of a challenge!
+https://twitter.com/CodingJen/status/1422041878438895621
