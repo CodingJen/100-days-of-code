@@ -173,3 +173,8 @@ https://twitter.com/CodingJen/status/1421700199169150982
 
 Trying to figure out how to make a partially destructible bunker with the method I've been building this game with is a bit of a challenge!
 https://twitter.com/CodingJen/status/1422041878438895621
+
+### R133
+
+My partially destructable bunkers are starting to work! Grinning faceI will figure this out. Found more unrelated bugs I'm going to have to fix, they just keep crawling out. Face with rolling eyes
+https://twitter.com/CodingJen/status/1422385971752935429

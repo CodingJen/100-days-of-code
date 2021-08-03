@@ -314,3 +314,20 @@ Not sure what the proper way to architect this would be. I feel my big global ga
 **Links to work**
 
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
+
+### Day 33: August 2, 2021
+
+**Today's Progress**
+
+- All in on the bunkers. Took some pen and paper figuring of math, using pythagoras to get distance between points and testing if the distance is less than the radius of my bomb emoji if so, bye bye.
+
+**Thoughts**
+Wish I knew if what i'm doing for collision testing is best. Seems like a lot of checks to do, but then again the computer is super fast. Should do some reading. Really want to refactor my code into classes or something. This just writing function after function thing isn't working _anymore._ I am almost to a functional game though so I should just push through, get it working, then refine. Why refine what doesn't work. Next time I'll should be able to start out a bit more organized. Or maybe use a game engine. Still have lots of code to write I'm sure but at least I don't have to deal with input or the timestep. Funny focusing on the bombs dropping, pause and play over and over and the bombs disappear when you hit play again. Timestep issue.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
