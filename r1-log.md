@@ -178,3 +178,9 @@ https://twitter.com/CodingJen/status/1422041878438895621
 
 My partially destructable bunkers are starting to work! Grinning faceI will figure this out. Found more unrelated bugs I'm going to have to fix, they just keep crawling out. Face with rolling eyes
 https://twitter.com/CodingJen/status/1422385971752935429
+
+### R134
+
+Just some bug fixes and some code refinement/cleanup today. Mostly a research/learning/reading day. Started reading The Pragmatic Programmer.
+
+https://twitter.com/CodingJen/status/1422779879091630082

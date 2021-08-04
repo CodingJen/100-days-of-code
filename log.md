@@ -331,3 +331,20 @@ Wish I knew if what i'm doing for collision testing is best. Seems like a lot of
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
 
 ---
+
+### Day 34: August 3, 2021
+
+**Today's Progress**
+
+- Fixed the pause timestep bug. (At least it works until it doesn't for something again -- I hope not!)
+- Cleaned up a bit of code.
+- Started on the player's destruction of the bunker. Some unexpected behaviour happening I have to investigate.
+
+**Thoughts**
+Still going! This is going to be the point I start to drop away from a project. The main part is almost done and so many little details still to do. I won't let that happen this time! This is the perfect project to perfect. It's all mine, no tutorial, my own implementation of everything. I know there are lots of problems with it. I'm sure my coding architecture's all wrong. Oh well, it works.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
