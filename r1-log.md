@@ -179,26 +179,26 @@ Using the first properties triggers a whole page layout and is very expensive!
 
 https://twitter.com/CodingJen/status/1421184100577071108
 
-### R131
+### R1D31
 
 More work on my Emoji Invaders game. Bunkers are starting to take shape now. Working on making it more responsive. I think I also need to enforce an aspect ratio.
 Time for some CSS & GoogleFu!
 
 https://twitter.com/CodingJen/status/1421700199169150982
 
-### R132
+### R1D32
 
 Trying to figure out how to make a partially destructible bunker with the method I've been building this game with is a bit of a challenge!
 
 https://twitter.com/CodingJen/status/1422041878438895621
 
-### R133
+### R1D33
 
 My partially destructable bunkers are starting to work! Grinning faceI will figure this out. Found more unrelated bugs I'm going to have to fix, they just keep crawling out. Face with rolling eyes
 
 https://twitter.com/CodingJen/status/1422385971752935429
 
-### R134
+### R1D34
 
 Just some bug fixes and some code refinement/cleanup today. Mostly a research/learning/reading day. Started reading The Pragmatic Programmer.
 
