@@ -174,7 +174,7 @@ https://twitter.com/CodingJen/status/1420957919231627269
 
 ### R1D30
 
-Important lesson today: Don't animate elements using http://style.top or style.left. Instead use transform: translate().
+Important lesson today: Don't animate elements using style.top or style.left. Instead use transform: translate().
 Using the first properties triggers a whole page layout and is very expensive!
 
 https://twitter.com/CodingJen/status/1421184100577071108
@@ -203,3 +203,9 @@ https://twitter.com/CodingJen/status/1422385971752935429
 Just some bug fixes and some code refinement/cleanup today. Mostly a research/learning/reading day. Started reading The Pragmatic Programmer.
 
 https://twitter.com/CodingJen/status/1422779879091630082
+
+### R1D35
+
+Progress on the bunkers in my game. A little bit of progress every day! Player damage is starting to take shape. Took some searching to find a nice clean way to reverse iterate though a NodeList.
+
+https://twitter.com/CodingJen/status/1423130630489985028

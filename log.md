@@ -348,3 +348,20 @@ Still going! This is going to be the point I start to drop away from a project. 
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
 
 ---
+
+### Day 35: August 4, 2021
+
+**Today's Progress**
+
+- More work on the bunker system. Player damage is started, going to add some randomness shots horizontall from the fire burst. (I know this makes no sense here.)
+- Read through a bit of You Don't Know JS Yet. Some good information there.
+- Also read some more of The Pragmatic Programmer. Needed to split my focus up a bit at least.
+
+**Thoughts**
+Thinking of how I'm going to refine the bunkers. What if I put a svg of something as a background and use the squares to block out hit area, set them to the background color and we should be good to go, disappearing in blocks.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
