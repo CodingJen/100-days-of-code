@@ -365,3 +365,21 @@ Thinking of how I'm going to refine the bunkers. What if I put a svg of somethin
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
 
 ---
+
+### Day 36: August 5, 2021
+
+**Today's Progress**
+
+- Starting to set up an svg for the bunker. I want something _cleaner_ than just the blocks, but I still want blocks when hit. Going to see about adding svg elements for the hit spots.
+- More code cleanup as I learn about new ways of doing things.
+- Tinkering with prototyping my eventual portfolio site. Looking at svg's, _again._ This time I want to animate a dashed road line as the page is scrolled.
+- Also tinkering with more React things, specifically custom hooks, and trying to fully wrap my head around whats going on. Especially with the useEffect and dependencies.
+
+**Thoughts**
+Looking at React tutorials showing how to do custom hooks and useEffect things. The tutorial works jsut fine without errors (on their screen) and on mine I get warnings and compilation errors due to missing dependencies, see above comment. I'm not sure if React was updated and not allowing things to be done that way anymore? The tutorial isn't even a year old! This stuff just moves soo fast.
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---

@@ -209,3 +209,9 @@ https://twitter.com/CodingJen/status/1422779879091630082
 Progress on the bunkers in my game. A little bit of progress every day! Player damage is starting to take shape. Took some searching to find a nice clean way to reverse iterate though a NodeList.
 
 https://twitter.com/CodingJen/status/1423130630489985028
+
+### R1D36
+
+Still working on my Emoji Invaders game. I keep adding features but I know I have to back and refine a lot. Just don't want to get stuck working on one thing too long. Working is good enough for now.
+
+https://twitter.com/CodingJen/status/1423479891262001158
