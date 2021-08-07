@@ -215,3 +215,9 @@ https://twitter.com/CodingJen/status/1423130630489985028
 Still working on my Emoji Invaders game. I keep adding features but I know I have to back and refine a lot. Just don't want to get stuck working on one thing too long. Working is good enough for now.
 
 https://twitter.com/CodingJen/status/1423479891262001158
+
+### R1D37
+
+More progress on the Emoji Invaders Game. I'm getting so close to it being a workable game! Even if I just broke it in an attempt to make things better. 🤣
+
+https://twitter.com/CodingJen/status/1423878238468657155

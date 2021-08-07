@@ -383,3 +383,20 @@ Looking at React tutorials showing how to do custom hooks and useEffect things. 
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
 
 ---
+
+### Day 37: August 6, 2021
+
+**Today's Progress**
+
+- Worked on the UFO. It flys across and can be shot down. Earning 100 points!
+- Ripping apart the HTML, still WIP and broken, so no commit yet from this part. Putting the score on top with the lives display in the bottom and game in the middle. It's a basic flexbox, but something is acting funky. I remember having this problem to begin with. The CSS feels right though so I think I should make the game work with it, if it is indeed the games problem. Still to debug.
+- Had to add back in the eslint airbnb style guide. The package.json disappeared and VSCode started complaining of missing things. Looked through the github and I don't really understand how it disapeared. There one commit, gone the next. But I swear I didn't delete the file.
+
+**Thoughts**
+100 Days sounds so simple. I love this stuff but do struggle to get code in everyday. I definitly want to though just my mind isn't always there. It seems to take so much time to get simple things working. Is this usual? Or am I just slow?
+
+**Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
