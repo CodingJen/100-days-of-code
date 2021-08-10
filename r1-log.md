@@ -221,3 +221,10 @@ https://twitter.com/CodingJen/status/1423479891262001158
 More progress on the Emoji Invaders Game. I'm getting so close to it being a workable game! Even if I just broke it in an attempt to make things better. 🤣
 
 https://twitter.com/CodingJen/status/1423878238468657155
+
+### R1D38
+
+Difficult day back after a good weekend spent with friends and family. Weird problems to solve and a struggle with git branches and trying to revert.
+Someone I know needs small website so I may have a first client!😀
+
+https://twitter.com/CodingJen/status/1424866582472269830

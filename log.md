@@ -400,3 +400,19 @@ Looking at React tutorials showing how to do custom hooks and useEffect things. 
 - [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
 
 ---
+
+### Day 38: August 9, 2021
+
+**Today's Progress**
+
+- Spent the weekend with family and friends, not in front of a scrren. I was getting too frustrated and needed a break.
+- BUT, I was super frustrated today anyway when things weren't working. Tried to revert a commit and messing up the git repo. MORE FRUSTRATION! Why is git so damn hard?
+-
+- **Thoughts**
+  WHY? Tough getting back at it especially when progress seems so slow! Having trouble with figureing out how to make it not get too wide if the aspect is landscape. Ideally I want the page to have a 3:4 vertical aspect ratio. Got to get it figured. I do have Alex's page to work on now too and that is going to requre some research. I think I want to go with next.js for the server side rendering stuff making sure it can easily get indexed into the search engines. No real need for a live rendered page, things just wont change that often.
+
+  **Links to work**
+
+- [Emoji Invaders Github](https://github.com/CodingJen/emoji-invaders-vanillajs)
+
+---
